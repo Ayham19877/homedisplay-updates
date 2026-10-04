@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "4.22",
+  "versionCode": 63,
+  "versionName": "4.23",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "notes": "زر تجربة الاحتفال"
+  "notes": "حذف حقل الرابط نهائياً"
 }
