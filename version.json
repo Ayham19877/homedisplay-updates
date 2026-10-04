@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "4.19",
+  "versionCode": 60,
+  "versionName": "4.20",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "notes": "زر التحديث داخل التطبيق"
+  "notes": "تحديث تلقائي من GitHub"
 }
