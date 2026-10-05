@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "4.25",
+  "versionCode": 66,
+  "versionName": "4.26",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "notes": "دعم الأجهزة القديمة للمؤثرات"
+  "notes": "تشغيل تلقائي عند الإقلاع + إصلاح زر التجربة"
 }
