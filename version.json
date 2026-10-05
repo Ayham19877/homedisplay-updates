@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "4.24",
+  "versionCode": 65,
+  "versionName": "4.25",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "notes": "رسم المؤثرات بالكود بدون إيموجي"
+  "notes": "دعم الأجهزة القديمة للمؤثرات"
 }
