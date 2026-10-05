@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "4.29",
+  "versionCode": 70,
+  "versionName": "4.30",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "notes": "إصلاح صوت التنبيه + زر تجربة"
+  "notes": "تهيئة الصوت مبكراً"
 }
