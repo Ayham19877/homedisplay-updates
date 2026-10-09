@@ -1,1 +1,1 @@
-{"versionCode":78,"versionName":"4.38","apkUrl":"https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk","notes":"زوم تلقائي مبسط: على أي تنبيه حركة بعد 3 ثوانٍ، ويعود طبيعياً عند الإغلاق"}
+{"versionCode":79,"versionName":"4.39","apkUrl":"https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk","notes":"إصلاح الزوم: تكبير الـView نفسه مع قص الزوائد (مضمون على SurfaceView) + التفعيل بعد استقرار البث"}
