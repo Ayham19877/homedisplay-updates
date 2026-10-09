@@ -1,1 +1,1 @@
-{"versionCode":83,"versionName":"4.43","apkUrl":"https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk","notes":"الزوم عبر TextureView.setTransform — بلا تغيير حجم وبلا إعادة تشغيل البث (إصلاح التعليق)"}
+{"versionCode":84,"versionName":"4.44","apkUrl":"https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk","notes":"حلقة الزوم التلقائية: زوم عند بدء الحركة + رجوع تلقائي عند انتهائها"}
