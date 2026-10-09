@@ -1,1 +1,1 @@
-{"versionCode":82,"versionName":"4.42","apkUrl":"https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk","notes":"إصلاح زر الزوم: كان يعدّل على كائن الأبعاد الأصلية نفسه فيتعطل بعد مرتين"}
+{"versionCode":83,"versionName":"4.43","apkUrl":"https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk","notes":"الزوم عبر TextureView.setTransform — بلا تغيير حجم وبلا إعادة تشغيل البث (إصلاح التعليق)"}
