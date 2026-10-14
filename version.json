@@ -1,6 +1,6 @@
 {
-  "versionName": "4.63",
-  "versionCode": 103,
+  "versionName": "4.64",
+  "versionCode": 104,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "إصلاح تسمية زر الجودة بعد التبديل + بفر دخل أكبر للمفكك"
+  "changelog": "المفكك يعتمد على in-band فقط + مستمع Tapo يحترم 🔔"
 }
