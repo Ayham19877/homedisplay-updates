@@ -1,6 +1,6 @@
 {
-  "versionName": "4.53",
-  "versionCode": 93,
+  "versionName": "4.54",
+  "versionCode": 94,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "التنبيه الصوتي: جرس ثم البنت تسمّي الكاميرا (بلا انقطاع) + كاميرا الحديقة تتذكر البث الشغال"
+  "changelog": "اختيار صوت جرس التنبيه من 4 أصوات + التنبيه: جرس ثم البنت تسمّي الكاميرا + ذاكرة البث للحديقة"
 }
