@@ -1,1 +1,6 @@
-{"versionCode":89,"versionName":"4.49","apkUrl":"https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk","notes":"إصلاح تعليق جلسة الكاميرا (TEARDOWN دون انتظار) — يمنع الشاشة السوداء"}
+{
+  "versionName": "4.50",
+  "versionCode": 90,
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
+  "changelog": "إصلاح الشاشة السوداء: طلب keyframe فوري (PLI+FIR) + تقارير استقبال RTCP دورية تبقي البث حياً"
+}
