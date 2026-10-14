@@ -1,6 +1,6 @@
 {
-  "versionName": "4.56",
-  "versionCode": 96,
+  "versionName": "4.57",
+  "versionCode": 97,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "كاميرا الحديقة: انتظار أطول للبث العالي (GOP طويل) + تعلّم تأخر IDR"
+  "changelog": "صوت الجرس المختار من المستخدم قبل صوت البنت + انتظار أطول للبث العالي"
 }
