@@ -1,6 +1,6 @@
 {
-  "versionName": "4.50",
-  "versionCode": 90,
+  "versionName": "4.51",
+  "versionCode": 91,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "إصلاح الشاشة السوداء: طلب keyframe فوري (PLI+FIR) + تقارير استقبال RTCP دورية تبقي البث حياً"
+  "changelog": "كاميرا الحديقة: تبديل تلقائي للبث البديل عند غياب الصورة خلال 6 ثوانٍ"
 }
