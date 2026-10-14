@@ -1,6 +1,6 @@
 {
-  "versionName": "4.57",
-  "versionCode": 97,
+  "versionName": "4.58",
+  "versionCode": 98,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "صوت الجرس المختار من المستخدم قبل صوت البنت + انتظار أطول للبث العالي"
+  "changelog": "تشخيص أدق: عدّاد فريمات IDR/P في البث العالي"
 }
