@@ -1,6 +1,6 @@
 {
-  "versionName": "4.51",
-  "versionCode": 91,
+  "versionName": "4.52",
+  "versionCode": 92,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "كاميرا الحديقة: تبديل تلقائي للبث البديل عند غياب الصورة خلال 6 ثوانٍ"
+  "changelog": "التنبيه الصوتي: جرس أولاً ثم صوت البنت يسمّي الكاميرا — مسار واحد بلا تعارض"
 }
