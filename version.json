@@ -1,6 +1,6 @@
 {
-  "versionName": "4.58",
-  "versionCode": 98,
+  "versionName": "4.59",
+  "versionCode": 99,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "تشخيص أدق: عدّاد فريمات IDR/P في البث العالي"
+  "changelog": "خيار إطفاء طلب keyframe عبر RTCP (اختبار البث العالي)"
 }
