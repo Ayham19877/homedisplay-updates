@@ -1,6 +1,6 @@
 {
-  "versionName": "4.66",
-  "versionCode": 106,
+  "versionName": "4.67",
+  "versionCode": 107,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "التشخيص يعرض SPS لتحليل البروفايل"
+  "changelog": "تصريح البروفايل/المستوى للمفكك (Main@5.0)"
 }
