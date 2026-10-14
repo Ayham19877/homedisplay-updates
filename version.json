@@ -1,6 +1,6 @@
 {
-  "versionName": "4.61",
-  "versionCode": 101,
+  "versionName": "4.62",
+  "versionCode": 102,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "المفكك يستخدم الدقة الحقيقية من SPS بدل السقف الثابت"
+  "changelog": "تبديل تنبيه الحركة لكل كاميرا (🔔 بجانب كل كاميرا بالإعدادات)"
 }
