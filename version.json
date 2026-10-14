@@ -1,6 +1,6 @@
 {
-  "versionName": "4.54",
-  "versionCode": 94,
+  "versionName": "4.55",
+  "versionCode": 95,
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "اختيار صوت جرس التنبيه من 4 أصوات + التنبيه: جرس ثم البنت تسمّي الكاميرا + ذاكرة البث للحديقة"
+  "changelog": "تشخيص البث الفاشل: يعرض الترميز والحزم المستلمة عند التبديل التلقائي"
 }
