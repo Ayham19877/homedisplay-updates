@@ -1,6 +1,6 @@
 {
-  "versionName": "4.70",
-  "versionCode": 110,
+  "versionCode": 111,
+  "versionName": "4.71",
   "apkUrl": "https://raw.githubusercontent.com/Ayham19877/homedisplay-updates/main/SmartHomeDisplay.apk",
-  "changelog": "عتاد أولاً (سريع) + برمجي احتياط"
+  "notes": "توحيد محطات الراديو: 42 محطة محدّثة من راديو شاهين"
 }
